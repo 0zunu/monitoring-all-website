@@ -23,18 +23,18 @@
     "icon": "https://www.azriel.id/favicon.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "78.56%",
-    "uptimeDay": "78.56%",
-    "uptimeWeek": "78.56%",
-    "uptimeMonth": "78.56%",
-    "uptimeYear": "78.56%",
+    "uptime": "70.77%",
+    "uptimeDay": "70.77%",
+    "uptimeWeek": "70.77%",
+    "uptimeMonth": "70.77%",
+    "uptimeYear": "70.77%",
     "time": 95,
     "timeDay": 95,
     "timeWeek": 95,
     "timeMonth": 95,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2026-06-06": 154
+      "2026-06-06": 233
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://elearningsmkn34jkt.sch.id/",
     "icon": "https://elearningsmkn34jkt.sch.id/favicon.ico",
     "slug": "e-learning-smkn-34-jakarta",
-    "status": "down",
-    "uptime": "78.56%",
-    "uptimeDay": "78.56%",
-    "uptimeWeek": "78.56%",
-    "uptimeMonth": "78.56%",
-    "uptimeYear": "78.56%",
-    "time": 2806,
-    "timeDay": 2806,
-    "timeWeek": 2806,
-    "timeMonth": 2806,
-    "timeYear": 2806,
+    "status": "up",
+    "uptime": "70.77%",
+    "uptimeDay": "70.77%",
+    "uptimeWeek": "70.77%",
+    "uptimeMonth": "70.77%",
+    "uptimeYear": "70.77%",
+    "time": 2678,
+    "timeDay": 2678,
+    "timeWeek": 2678,
+    "timeMonth": 2678,
+    "timeYear": 2678,
     "dailyMinutesDown": {
-      "2026-06-06": 154
+      "2026-06-06": 233
     }
   },
   {
