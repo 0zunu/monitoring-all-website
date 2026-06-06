@@ -36,5 +36,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+i18n:
+  footer: This page is hosted on GitHub [0zunu]($REPO) project since @2024-09-10, & created by [Azriel Fidzlie](https://www.azriel.id/).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
