@@ -15,6 +15,9 @@ sites:
   - name: E-Learning SMKN 34 Jakarta
     url: https://elearningsmkn34jkt.sch.id/
     icon: https://elearningsmkn34jkt.sch.id/favicon.ico
+  - name: Announcement Anime
+    url: https://au.azriel.id/
+    icon: https://au.azriel.id/img/Anime.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
