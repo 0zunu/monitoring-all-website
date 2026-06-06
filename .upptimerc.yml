@@ -21,6 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitoring.azriel.id
   # baseUrl: /your-repo-name
+  faviconSvg: https://www.azriel.id/favicon.ico
   logoUrl: https://www.azriel.id/favicon.ico
   theme: night
   name: Monitoring All Website
