@@ -4,22 +4,22 @@
     "url": "https://elearningsmkn34jkt.sch.id/",
     "icon": "https://elearningsmkn34jkt.sch.id/favicon.ico",
     "slug": "e-learning-smkn-34-jakarta",
-    "status": "down",
-    "uptime": "71.29%",
-    "uptimeDay": "81.96%",
-    "uptimeWeek": "71.29%",
-    "uptimeMonth": "71.29%",
-    "uptimeYear": "71.29%",
-    "time": 1996,
-    "timeDay": 1598,
-    "timeWeek": 1996,
-    "timeMonth": 1996,
-    "timeYear": 1996,
+    "status": "up",
+    "uptime": "69.97%",
+    "uptimeDay": "75.28%",
+    "uptimeWeek": "69.97%",
+    "uptimeMonth": "69.97%",
+    "uptimeYear": "69.97%",
+    "time": 1981,
+    "timeDay": 1608,
+    "timeWeek": 1981,
+    "timeMonth": 1981,
+    "timeYear": 1981,
     "dailyMinutesDown": {
       "2026-06-06": 290,
       "2026-06-07": 629,
       "2026-06-08": 328,
-      "2026-06-09": 221
+      "2026-06-09": 317
     }
   }
 ]
