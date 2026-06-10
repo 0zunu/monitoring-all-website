@@ -6,7 +6,8 @@ sites:
   - name: E-Learning SMKN 34 Jakarta
     url: https://elearningsmkn34jkt.sch.id/
     icon: https://elearningsmkn34jkt.sch.id/favicon.ico
-    skipDeleteIssues: true
+    type: globalping
+    location: jakarta
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
