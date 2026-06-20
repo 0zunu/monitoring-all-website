@@ -16,7 +16,7 @@ status-website:
   # baseUrl: /your-repo-name
   faviconSvg: https://www.azriel.id/favicon.ico
   logoUrl: https://www.azriel.id/favicon.ico
-  theme: night
+  theme: dark
   name: Monitoring All Website
   introTitle: "Monitoring all websites such as projects, personal websites"
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/0zunu/Status-Page-Advanced).
